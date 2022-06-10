@@ -1,4 +1,4 @@
-### Calculadora-Swing:
+### Calculadora-Swing
 * Desenvolvida em java
 * Utilizando Biblioteca Swing
 
