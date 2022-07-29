@@ -1,6 +1,6 @@
-### Calculadora-Swing
+### Calculadora-Java
 * Desenvolvida em java
-* Utilizando Biblioteca Swing
+* Utilizando Biblioteca JavaFX
 
 
 ##
